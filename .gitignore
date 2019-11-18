@@ -1,0 +1,10 @@
+__pycache__
+stock/__pycache__/
+*.sqlite
+venv/
+flask_session/
+.flaskenv
+.env
+.pytest_cache
+.vscode
+
