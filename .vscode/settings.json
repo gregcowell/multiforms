@@ -1,8 +1,0 @@
-{
-    "python.pythonPath": "/home/gregc/.local/share/virtualenvs/stock-jkWmVMpT/bin/python",
-    "python.linting.pylintEnabled": true,
-    "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true,
-    "python.linting.pycodestyleEnabled": true,
-    "python.linting.pydocstyleEnabled": true
-}
