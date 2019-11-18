@@ -1,0 +1,15 @@
+<h2>Stocks:</h2>
+
+   {% for form in forms %}
+
+    <form method="post" role="form" enctype="multipart/form-data">
+        {{ form.hidden_tag() }}
+    
+        {{ form.stock_id }}
+        {{ form.stock_name }}
+        {{ form.modify }}
+        {{ form.delete }}
+
+    </form>
+
+   {% endfor %}
